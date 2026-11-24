@@ -1,0 +1,5 @@
+*.o
+*.exe
+*.i
+temp1.c
+temp2.c
